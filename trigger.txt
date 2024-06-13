@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.2-cudnn8-devel-ubuntu20.04 registry.cn-hangzhou.aliyuncs.com/hb_hub/nvidia_cuda:cuda:12.2.2-cudnn8-devel-ubuntu20.04
+nvidia/cuda:12.2.2-cudnn8-devel-ubuntu20.04 registry.cn-hangzhou.aliyuncs.com/hb_hub/nvidia_cuda:12.2.2-cudnn8-devel-ubuntu20.04
