@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.2-cudnn8-devel-ubuntu20.04 registry.cn-hangzhou.aliyuncs.com/hb_hub/nvidia_cuda:12.2.2-cudnn8-devel-ubuntu20.04
+ghcr.io/open-webui/open-webui:main  registry.cn-hangzhou.aliyuncs.com/hb_hub/open-webui:main
