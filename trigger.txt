@@ -1,1 +1,1 @@
-tailscale/tailscale:stable registry.cn-hangzhou.aliyuncs.com/hb_hub/tailscale/tailscale:stable
+tailscale/tailscale registry.cn-hangzhou.aliyuncs.com/hb_hub/tailscale/tailscale:stable
