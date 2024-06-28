@@ -1,1 +1,1 @@
-tailscale/tailscale registry.cn-hangzhou.aliyuncs.com/hb_hub/tailscale/tailscale:stable
+ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/hb_hub/ollama/ollama:latest
