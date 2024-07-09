@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main  registry.cn-hangzhou.aliyuncs.com/hb_hub/open-webui:main
+ghcr.io/open-webui/open-webui:main registry.cn-hangzhou.aliyuncs.com/hb_hub/open-webui:main
